@@ -1,4 +1,4 @@
-# BackupRez
+# GZBackup (temp)
 A automated game file backup solution 
 
 #### What is BackupRez?

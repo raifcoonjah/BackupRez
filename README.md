@@ -1,5 +1,5 @@
 # GZBackup (temp)
-A automated game file backup solution 
+A automated game save backup solution.
 
 #### What is GZBackup?
 BackupRez is a automated save game backup solution that uses Ludusavi and rclone. 
